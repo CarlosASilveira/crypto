@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/CarlosASilveira/crypto#readme",
   "dependencies": {
-    "coinmarketcap-api": "^3.0.0"
+    "coinmarketcap-api": "^3.0.0",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
   }
 }
