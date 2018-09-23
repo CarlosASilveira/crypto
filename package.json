@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarlosASilveira/crypto/issues"
   },
-  "homepage": "https://github.com/CarlosASilveira/crypto#readme"
+  "homepage": "https://github.com/CarlosASilveira/crypto#readme",
+  "dependencies": {
+    "coinmarketcap-api": "^3.0.0"
+  }
 }
